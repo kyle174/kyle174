@@ -5,6 +5,6 @@ I'm a Software Engineering student at McMaster University, passionate about tech
 Feel free to explore my repositories and projects!
 
 ## 📫 How to reach me:
-- Email: [andrade17kyle@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/kyleandrade174/]
+- [Email](andrade17kyle@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/kyleandrade174/)
 
